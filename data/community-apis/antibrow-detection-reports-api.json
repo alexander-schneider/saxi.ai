@@ -1,0 +1,16 @@
+{
+  "name": "AntiBrow Detection Reports API",
+  "description": "Returns dated browser-detection observations as JSON, including individual check results, failures and corrections.",
+  "docsUrl": "https://antibrow.com/reports/method",
+  "websiteUrl": "https://antibrow.com/reports/data",
+  "categories": [
+    "Open Data"
+  ],
+  "auth": "No Auth",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-09-10",
+  "openapiUrl": "",
+  "notes": "A no-key public dataset of browser-detection runs published under CC BY 4.0, with a method page that states the sample limitations. Useful to developers comparing anti-bot behaviour. It is vendor-authored data, not an independent ranking, and the current collection is small - one published run."
+}
