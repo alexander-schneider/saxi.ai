@@ -1,0 +1,14 @@
+{
+  "name": "ModelRush",
+  "description": "Paid prepaid APIs for text, image, video and voice models, with OpenAI-compatible chat and model-specific media endpoints; includes a separate age-restricted NSFW catalog.",
+  "docsUrl": "https://modelrush.ai/docs",
+  "websiteUrl": "https://modelrush.ai/",
+  "categories": ["Machine Learning", "Video", "Voice"],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-09-09",
+  "openapiUrl": "",
+  "notes": "A proprietary hosted multimodal API service with public documentation and model pricing at https://modelrush.ai/pricing. Paid prepaid usage credits, no ongoing free tier or trial. Chat is OpenAI-compatible; media APIs are model-specific. Includes a separate age-restricted Spicy/NSFW catalog. Submitted by the ModelRush Product Team with AI assistance for factual editorial review."
+}
