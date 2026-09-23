@@ -1,0 +1,14 @@
+{
+  "name": "Vend API Merchant",
+  "description": "Web-data APIs for AI agents: extract, web-search, geoip, domain-info, check-link, YouTube transcript, PDF extract. Pay per call via Nano (XNO) x402 - no API key, no signup, no monthly fee.",
+  "docsUrl": "https://extract.paypercall.dev",
+  "websiteUrl": "https://extract.paypercall.dev",
+  "categories": ["Development", "Search", "Data Validation"],
+  "auth": "API Key",
+  "cors": "Yes",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-09-23",
+  "openapiUrl": "https://extract.paypercall.dev/openapi.json",
+  "notes": "Vend is the only API merchant on Nano (XNO) x402 rails. No signup, no API key, no monthly fee - pay 0.0001 XNO per call on-chain. Agents can start using any endpoint in seconds with just a wallet. 12 live endpoints including extract, web-search, geoip, domain-info, check-link, and pdf-extract. Fully machine-readable OpenAPI spec published."
+}
