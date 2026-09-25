@@ -1,0 +1,14 @@
+{
+  "name": "Vend API Merchant",
+  "description": "Pay-per-call web-data API for AI agents: extract any URL to clean text or markdown, plus web search, link check, geolocation and PDF-to-text, settled on-chain in XNO per call.",
+  "docsUrl": "https://extract.paypercall.dev/openapi.json",
+  "websiteUrl": "https://extract.paypercall.dev",
+  "categories": ["Development", "Text Analysis"],
+  "auth": "API Key",
+  "cors": "Yes",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-09-24",
+  "openapiUrl": "https://extract.paypercall.dev/openapi.json",
+  "notes": "A paid per-request web-data API that agents call directly: it serves a live OpenAPI 3.1 spec (12 paths) and an x402 settlement manifest (24 paid resources) so a caller pays per call in Nano with no subscription. Documentation and spec are public and reachable without login. Paid-only, no free tier, which is why free is false."
+}
