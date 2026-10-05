@@ -1,0 +1,14 @@
+{
+  "name": "YouTube Transcript Search API by Arcmira",
+  "description": "Search indexed YouTube transcripts for timestamped quotes, speaker appearances, entity mentions, sponsors and recommendations, with full transcripts and monitoring available by plan.",
+  "docsUrl": "https://arcmira.com/docs",
+  "websiteUrl": "https://arcmira.com",
+  "categories": ["Video", "Search", "Text Analysis"],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-05",
+  "openapiUrl": "https://api.arcmira.com/v1/openapi.json",
+  "notes": "Submitted by the Arcmira team. Free accounts require no card and include limited API usage with freshness, filter and feature limits. Paid reads use credits from your plan, then your on-demand budget. Public REST docs, OpenAPI, TypeScript and Python SDKs, and a separate OAuth MCP endpoint support developer and agent research workflows. Coverage depends on the indexed media and available analysis. Pricing: https://arcmira.com/pricing"
+}
