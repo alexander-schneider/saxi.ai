@@ -1,6 +1,6 @@
 {
   "name": "YouTube Transcript Search API by Arcmira",
-  "description": "Search indexed YouTube transcripts for timestamped quotes, speaker appearances, entity mentions, sponsors and recommendations, with full transcripts and monitoring available by plan.",
+  "description": "Search indexed YouTube transcripts for timestamped quotes, speaker appearances, entity mentions, sponsors and recommendations, with full transcripts and alerts for new entity mentions available by plan.",
   "docsUrl": "https://arcmira.com/docs",
   "websiteUrl": "https://arcmira.com",
   "categories": ["Video", "Search", "Text Analysis"],
