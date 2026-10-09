@@ -1,6 +1,6 @@
 {
   "name": "DiscountedTokens API",
-  "description": "Prepaid OpenAI-, Responses-, and Anthropic-compatible API access to GPT-5.x-family language models.",
+  "description": "Independent prepaid model API with OpenAI-, Responses-, and Anthropic-format endpoints; consult its live model and pricing feeds for current routes and token rates.",
   "docsUrl": "https://discountedtokens.com/docs",
   "websiteUrl": "https://discountedtokens.com",
   "categories": ["Machine Learning", "Development"],
