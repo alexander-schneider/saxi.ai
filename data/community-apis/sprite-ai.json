@@ -1,0 +1,13 @@
+{
+  "name": "Sprite AI",
+  "description": "Generates game-ready pixel art sprites from a text prompt, animates them into sprite sheets and rotates them to 8 directions.",
+  "docsUrl": "https://www.sprite-ai.art/docs",
+  "websiteUrl": "https://www.sprite-ai.art",
+  "categories": ["Art & Design", "Games & Comics"],
+  "auth": "API Key",
+  "cors": "No",
+  "https": true,
+  "free": false,
+  "openapiUrl": "",
+  "notes": "Hosted REST API for game developers. Public docs, self-serve API keys, 15 free tokens at signup, then paid plans or token packs. Also available as an MCP server for AI agents."
+}
