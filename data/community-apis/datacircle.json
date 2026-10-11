@@ -1,0 +1,14 @@
+{
+  "name": "Datacircle",
+  "description": "Query your favorite B2B data APIs through us. Same request, same price, no markup. Right now we have 3 live LinkedIn profile APIs that we trust: Up2Data, HarvestAPI and Fetchin.",
+  "docsUrl": "https://docs.datacircle.dev",
+  "websiteUrl": "https://datacircle.dev",
+  "categories": ["Business", "Social"],
+  "auth": "API Key",
+  "cors": "No",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-10-11",
+  "openapiUrl": "https://docs.datacircle.dev/openapi.json",
+  "notes": "Datacircle is a data co-op. You send the provider's own request to api.datacircle.dev, with your Datacircle key. That's the only change. Each request goes to the provider and gets the profile as it is today. Sign up at datacircle.dev with your work email: a $5 credit, that's 2,105 LinkedIn profiles at $2.375 per 1,000."
+}
