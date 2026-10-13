@@ -1,0 +1,13 @@
+{
+  "name": "MT-MangaTranslate-Manga Translator",
+  "description": "Translate manga images in batches, check translation progress, and retrieve translated images through an API.",
+  "docsUrl": "https://www.mangatranslate.com/api-examples/",
+  "websiteUrl": "https://www.mangatranslate.com/",
+  "categories": ["Games & Comics"],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "openapiUrl": "",
+  "notes": "Provides a documented manga-image translation workflow for external developers, including batch task submission, progress checks, and translated-image results. Paid API credits are available; limited daily free web credits are not represented as a free API plan."
+}
