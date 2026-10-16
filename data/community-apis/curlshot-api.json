@@ -1,0 +1,14 @@
+{
+  "name": "CurlShot API",
+  "description": "Screenshot API that renders a URL, HTML or Markdown in a real browser and returns a PNG, JPEG, WebP, PDF or scrolling video (MP4, WebM, GIF).",
+  "docsUrl": "https://curlshot.com/docs",
+  "websiteUrl": "https://curlshot.com",
+  "categories": ["Development", "Photography", "Documents & Productivity"],
+  "auth": "API Key",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-16",
+  "openapiUrl": "https://curlshot.com/openapi.json",
+  "notes": "Public docs, an OpenAPI 3.1 description, llms.txt and a remote MCP server (https://curlshot.com/api/mcp) make it usable by AI agents. Free plan with 100 screenshots a month and no card; failed renders and cache hits are not counted."
+}
