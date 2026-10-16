@@ -1,0 +1,14 @@
+{
+  "name": "CareJobs.Now Healthcare Jobs",
+  "description": "Free JSON data on 170,000+ open US healthcare jobs and their posted hourly pay, read daily from employers' career sites.",
+  "docsUrl": "https://carejobs.now/data",
+  "websiteUrl": "https://carejobs.now",
+  "categories": ["Jobs"],
+  "auth": "No Auth",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-16",
+  "openapiUrl": "https://raw.githubusercontent.com/yumaheymans/carejobs-mcp/main/openapi.yaml",
+  "notes": "Open JSON (roles.json, pay.json, pay.csv) of open US healthcare jobs by kind of job and employer, with the pay employers post. No key and CORS enabled, so browser and server code can read it directly. Docs are public at carejobs.now/data; the OpenAPI 3.1 spec is in the public repo (MIT)."
+}
