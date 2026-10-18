@@ -1,0 +1,15 @@
+{
+  "name": "Foreclosure Data Hub API",
+  "description": "REST API for U.S. foreclosure and REO property data across all 50 states, updated daily, with filters for geography, sale date, sale status, owner, and estimated value.",
+  "docsUrl": "https://www.foreclosuredatahub.com/api-docs",
+  "websiteUrl": "https://www.foreclosuredatahub.com",
+  "categories": ["Business", "Finance"],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-10-17",
+  "protocol": "REST",
+  "openapiUrl": "",
+  "notes": "Foreclosure Data Hub publishes public API documentation for x-api-key authenticated REST endpoints that return normalized, paginated JSON foreclosure and REO records. API access is paid (included on Pro and Business plans; commercial API plans available), with a limited trial."
+}
