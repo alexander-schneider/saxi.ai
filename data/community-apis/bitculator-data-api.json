@@ -5,7 +5,7 @@
   "websiteUrl": "https://bitculator.com/en/crypto-api",
   "categories": [
     "Cryptocurrency",
-    "Finance",
+    "Finance"
   ],
   "auth": "API Key",
   "cors": "Yes",
