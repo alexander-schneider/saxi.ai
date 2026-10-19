@@ -1,0 +1,18 @@
+{
+  "name": "Ecommerce Data API",
+  "description": "Structured Amazon product, keyword, market, review and traffic research data through REST APIs for ecommerce applications and AI agents.",
+  "docsUrl": "https://ecommercedataapi.com/en/docs",
+  "websiteUrl": "https://ecommercedataapi.com",
+  "categories": [
+    "Commerce",
+    "Business",
+    "Development"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-10-19",
+  "openapiUrl": "",
+  "notes": "Paid API service with trial credits, public documentation, remote MCP integration and Agent Skills. Supports Amazon research workflows; endpoint coverage varies and sales estimates are not verified sales."
+}
