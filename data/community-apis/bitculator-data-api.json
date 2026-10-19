@@ -1,0 +1,17 @@
+{
+  "name": "Bitculator Data API",
+  "description": "Crypto market data API with prices averaged across 16 exchanges, OHLCV history, a Fear & Greed index per coin, technical indicators, exchanges with trust scores and liquidations.",
+  "docsUrl": "https://bitculator.com/en/documentation/api/v1",
+  "websiteUrl": "https://bitculator.com/en/crypto-api",
+  "categories": [
+    "Cryptocurrency",
+    "Finance",
+  ],
+  "auth": "API Key",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-19",
+  "openapiUrl": "https://bitculator.com/api/v1/openapi.json",
+  "notes": "Public REST API with a free plan of 10,000 requests a month, an OpenAPI 3 spec, decimal-string prices and official MIT SDKs in 8 languages (github.com/Bitculator). Useful for agents that need crypto prices, sentiment and exchange data. Disclosure: submitted by the maker."
+}
