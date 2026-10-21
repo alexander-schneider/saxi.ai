@@ -1,0 +1,18 @@
+{
+  "name": "SanctionsKit sanctions screening API",
+  "description": "Sanctions screening API with source-linked potential matches, human review and saved evidence; free synthetic sandbox for integration testing, with paid production screening.",
+  "docsUrl": "https://www.sanctionskit.com/docs/quickstart",
+  "websiteUrl": "https://www.sanctionskit.com/product/api",
+  "categories": [
+    "Finance",
+    "Business",
+    "Development"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-10-21",
+  "openapiUrl": "https://www.sanctionskit.com/openapi.json",
+  "notes": "Official submission from SanctionsKit. Developers can test screening requests and evidence retrieval with invented sandbox records. Production screening is paid, so free is false to avoid implying free live sanctions screening. Public docs and OpenAPI describe authentication, source scope and review limitations."
+}
