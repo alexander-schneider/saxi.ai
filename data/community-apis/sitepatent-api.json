@@ -1,0 +1,14 @@
+{
+  "name": "SitePatent API",
+  "description": "Anonymous read-only JSON API for the SitePatent product discovery directory: categories with listing counts, latest approved listings, trending listings, site of the day, topic tags and tech stacks.",
+  "docsUrl": "https://sitepatent.com/openapi.json",
+  "websiteUrl": "https://sitepatent.com",
+  "categories": ["Business", "Open Data"],
+  "auth": "No Auth",
+  "cors": "No",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-24",
+  "openapiUrl": "https://sitepatent.com/openapi.json",
+  "notes": "Free GET endpoints with no key and no account, described by a public OpenAPI 3.1 file. SitePatent also runs a read-only remote MCP server (https://sitepatent.com/api/mcp, Streamable HTTP) whose tools search the human-reviewed listings, read full listing profiles and find alternatives to a product."
+}
