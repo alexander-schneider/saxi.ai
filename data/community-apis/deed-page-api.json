@@ -1,0 +1,14 @@
+{
+  "name": "deed.page API",
+  "description": "Static hosting API that publishes an HTML file, a folder or a tarball to a permanent https://<slug>.deed.page URL with one PUT or POST request.",
+  "docsUrl": "https://deed.page/docs",
+  "websiteUrl": "https://deed.page",
+  "categories": ["Development", "Cloud Storage & File Sharing"],
+  "auth": "No Auth",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-24",
+  "openapiUrl": "https://deed.page/openapi.json",
+  "notes": "The first publish needs no account or key and returns a Bearer token for later updates; CORS is open (Access-Control-Allow-Origin: *). It ships an OpenAPI 3.1 file, llms.txt and a remote MCP server (https://deed.page/mcp), so AI agents can publish pages they generate. Free plan: 25 sites, 25 MB each."
+}
