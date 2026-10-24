@@ -1,0 +1,14 @@
+{
+  "name": "MEDIAPRONET API",
+  "description": "Anonymous read-only JSON API for the MEDIAPRONET launch and discovery directory: category tree with listing counts, latest approved listings, trending listings, site of the day, topic tags and tech stacks.",
+  "docsUrl": "https://mediapronet.com/openapi.json",
+  "websiteUrl": "https://mediapronet.com",
+  "categories": ["Business", "Open Data"],
+  "auth": "No Auth",
+  "cors": "No",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-24",
+  "openapiUrl": "https://mediapronet.com/openapi.json",
+  "notes": "Free GET endpoints with no key and no account, described by a public OpenAPI 3.1 file, plus a read-only remote MCP server (https://mediapronet.com/api/mcp, Streamable HTTP) whose tools search listings, read full listing profiles and find alternatives to a product, so AI agents can look up newly launched startups, SaaS and AI tools."
+}
