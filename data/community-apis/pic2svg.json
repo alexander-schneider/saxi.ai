@@ -1,0 +1,15 @@
+{
+  "name": "pic2svg",
+  "description": "Trace raster images to SVG with a free daily allowance and no account.",
+  "docsUrl": "https://pic2svg.com/mcp/",
+  "websiteUrl": "https://pic2svg.com/",
+  "categories": [
+    "Art & Design"
+  ],
+  "auth": "No Auth",
+  "cors": "No",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-25",
+  "notes": "A public raster-to-SVG tracing API for image workflows and scripts. Public documentation includes request and response examples. Processing runs on pic2svg's server; SVG tracing has a daily allowance."
+}
