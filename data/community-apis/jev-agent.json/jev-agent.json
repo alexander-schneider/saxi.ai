@@ -1,0 +1,14 @@
+{
+  "name": "Jev Agent",
+  "description": "Independent Jev AI model API: free jv_live_ key with typed Choice/Score/Noul decisions, eight classify rulesets, and an OpenAI Decisions-format endpoint.",
+  "docsUrl": "https://jev-agent.com/docs",
+  "websiteUrl": "https://jev-agent.com/api-access",
+  "categories": ["Machine Learning", "Text Analysis", "Development"],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-28",
+  "openapiUrl": "",
+  "notes": "Self-serve free tier after sign-in (5 credits/month; 1 credit = 1,000 input tokens). Useful for agents that need calibrated classify/route/guardrail decisions instead of chat prose. Independent site; not affiliated with TypeSafe AI. Maker contact: Waller / jevagentgame@gmail.com"
+}
