@@ -1,0 +1,14 @@
+{
+  "name": "OMOPHub API",
+  "description": "REST API for the OHDSI OMOP standardized vocabularies: search, map and navigate 11M+ medical concepts across 120+ vocabularies such as SNOMED CT, ICD-10, LOINC and RxNorm.",
+  "docsUrl": "https://docs.omophub.com",
+  "websiteUrl": "https://omophub.com",
+  "categories": ["Health"],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-29",
+  "openapiUrl": "https://api.omophub.com/openapi.json",
+  "notes": "Healthcare data teams use it to look up and map clinical codes without running a local ATHENA vocabulary database. Features include semantic and multilingual search, cross-vocabulary mappings, concept hierarchies, vocabulary release pinning and a FHIR-to-OMOP resolver. The free plan includes 3,000 calls per month with no card; requests pause at the quota and there are no overage charges. Docs are public at docs.omophub.com and the OpenAPI 3.0 spec is public."
+}
