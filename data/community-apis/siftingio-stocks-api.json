@@ -1,0 +1,16 @@
+{
+  "name": "SiftingIO US Stocks API",
+  "description": "U.S. stock API with REST snapshots, historical OHLCV, SEC filings and XBRL financials, plus real-time WebSocket prices.",
+  "docsUrl": "https://sifting.io/docs",
+  "websiteUrl": "https://sifting.io/product/stocks",
+  "categories": [
+    "Finance"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-10-26",
+  "openapiUrl": "",
+  "notes": "Publicly documented data API for U.S. equity research, charting and backtesting. An ongoing free API-key plan is available with request and connection limits. Official Python, Go and TypeScript clients are maintained by SiftingIO. The hosted data service is not open source."
+}
