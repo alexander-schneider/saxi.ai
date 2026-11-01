@@ -1,0 +1,16 @@
+{
+  "name": "Big Walk Achievement Data",
+  "description": "Read public Steam achievement completion percentages for Big Walk with English and Chinese names and a dated comparison, as JSON or CSV.",
+  "docsUrl": "https://thebigwalk.world/en/achievements#embed",
+  "websiteUrl": "https://thebigwalk.world/en/achievements",
+  "categories": [
+    "Games & Comics",
+    "Open Data"
+  ],
+  "auth": "No Auth",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-01",
+  "notes": "Unofficial fan dataset for community tools and analysis, not affiliated with House House or Panic. JSON: https://thebigwalk.world/data/big-walk-achievements.json (CSV is linked in the docs). Responses include read_at, source_status and a 2026-09-30 comparison; no real-time guarantee. Percentages are Valve's public statistics. Compilation: CC BY 4.0; attribute Big Walk Guide, https://thebigwalk.world/en/achievements ."
+}
