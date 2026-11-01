@@ -1,0 +1,18 @@
+{
+  "name": "MakeInterview Public Content MCP",
+  "description": "Read-only MCP access to MockLive interview-practice guides, public page Markdown and service health, with no access to private interview sessions or reports.",
+  "docsUrl": "https://makeinterview.com/.well-known/mcp/server-card.json",
+  "websiteUrl": "https://makeinterview.com/en",
+  "categories": [
+    "Education",
+    "Jobs",
+    "Development"
+  ],
+  "auth": "No Auth",
+  "cors": "Unknown",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-01",
+  "openapiUrl": "",
+  "notes": "Public Streamable HTTP MCP endpoint: https://makeinterview.com/mcp. Three read-only tools retrieve the site guide, public page Markdown and service health; they cannot start an interview or retrieve private reports. External-client initialize, tools/list and all three tools were checked on 2026-11-01. Public MCP access is free; separate spoken mock interviews have a free first session and paid plans. Submitted on behalf of MakeInterview with AI-assisted wording."
+}
