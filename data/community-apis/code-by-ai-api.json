@@ -1,0 +1,17 @@
+{
+  "name": "Code By AI API",
+  "description": "Pay-per-token LLM API gateway for AI coding agents with one API key for Claude, GPT/Codex and Gemini models via OpenAI-compatible, Anthropic Messages, OpenAI Responses and Gemini formats.",
+  "docsUrl": "https://www.codebyai.net/docs",
+  "websiteUrl": "https://www.codebyai.net",
+  "categories": [
+    "Machine Learning",
+    "Development"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-11-04",
+  "openapiUrl": "",
+  "notes": "Public documentation at https://www.codebyai.net/docs, a machine-readable price list at https://www.codebyai.net/api/model-prices and an llms.txt at https://www.codebyai.net/llms.txt. OpenAI-compatible base URL https://www.codebyai.net/api/agent/v1; paid prepaid usage only (US$3 minimum top-up). Submitted by the operator for directory review."
+}
