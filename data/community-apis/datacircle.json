@@ -1,0 +1,14 @@
+{
+  "name": "Datacircle",
+  "description": "Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.",
+  "docsUrl": "https://api.datacircle.dev/v1/openapi.json",
+  "websiteUrl": "https://datacircle.dev",
+  "categories": ["Business", "Search"],
+  "auth": "No Auth",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-06",
+  "openapiUrl": "https://api.datacircle.dev/v1/openapi.json",
+  "notes": "Our API at https://api.datacircle.dev/v1 needs no key. It lists every GTM API, says who is best for each and searches every plan."
+}
