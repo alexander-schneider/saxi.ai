@@ -11,8 +11,8 @@
   "auth": "API Key",
   "cors": "Unknown",
   "https": true,
-  "free": true,
+  "free": false,
   "addedAt": "2026-11-06",
   "openapiUrl": "https://www.agentseo.dev/openapi.yaml",
-  "notes": "AgentSEO is a paid API with 100 one-time live credits for new accounts; ongoing usage requires a paid plan. It is a strong fit for this directory because AI agents and developers can use its structured SEO and AEO data for search visibility workflows."
+  "notes": "New accounts get 100 one-time live credits with no card; further usage needs a paid plan. Public REST docs, OpenAPI, and API-key auth: https://www.agentseo.dev/docs/api-reference."
 }
