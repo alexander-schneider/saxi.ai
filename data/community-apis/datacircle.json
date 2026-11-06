@@ -1,0 +1,17 @@
+{
+  "name": "Datacircle",
+  "description": "JSON API with no key that lists GTM APIs, ranked provider plans, and scores from Datacircle's comparison sheet.",
+  "docsUrl": "https://datacircle.dev/api",
+  "websiteUrl": "https://datacircle.dev",
+  "categories": [
+    "Business",
+    "Search"
+  ],
+  "auth": "No Auth",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-06",
+  "openapiUrl": "https://api.datacircle.dev/v1/openapi.json",
+  "notes": "Unauthenticated GET endpoints at https://api.datacircle.dev/v1 list APIs, best-ranked plans, and providers. Human docs: https://datacircle.dev/api. OpenAPI 3.1: https://api.datacircle.dev/v1/openapi.json."
+}
