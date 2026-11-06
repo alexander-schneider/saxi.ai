@@ -1,9 +1,11 @@
 {
   "name": "CodeI Lab",
   "description": "Third-party GPT API gateway for coding agents that bills discounted credit and configures Claude Code, Codex CLI or OpenCode with one command.",
-  "docsUrl": "https://www.codeilab.com",
+  "docsUrl": "https://www.codeilab.com/docs",
   "websiteUrl": "https://www.codeilab.com",
-  "categories": ["Development"],
+  "categories": [
+    "Development"
+  ],
   "auth": "API Key",
   "cors": "Unknown",
   "https": true,
