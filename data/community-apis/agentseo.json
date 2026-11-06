@@ -1,0 +1,18 @@
+{
+  "name": "AgentSEO REST API",
+  "description": "Production REST API for Google SERP analysis, keyword research, rank tracking, content-gap analysis, and Google AI Overview monitoring for SEO and answer-engine optimization workflows.",
+  "docsUrl": "https://www.agentseo.dev/docs/api-reference",
+  "websiteUrl": "https://www.agentseo.dev/",
+  "categories": [
+    "Marketing & SEO",
+    "Search",
+    "Development"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-06",
+  "openapiUrl": "https://www.agentseo.dev/openapi.yaml",
+  "notes": "AgentSEO is a paid API with 100 one-time live credits for new accounts; ongoing usage requires a paid plan. It is a strong fit for this directory because AI agents and developers can use its structured SEO and AEO data for search visibility workflows."
+}
