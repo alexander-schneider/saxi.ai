@@ -1,0 +1,14 @@
+{
+  "name": "David-AI 胃袋AI",
+  "description": "OpenAI- and Anthropic-compatible API gateway for developers using coding agents and AI applications.",
+  "docsUrl": "https://github.com/t6016884321-maker/vidai-ai-coding-guide#readme",
+  "websiteUrl": "https://api.david-ai.net/home",
+  "categories": ["Development", "Machine Learning", "Programming"],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-11-09",
+  "openapiUrl": "",
+  "notes": "The service exposes public developer documentation and an OpenAI/Anthropic-compatible API entry point. Listing it gives developers a verifiable directory record; pricing, model availability and compatibility should be checked against the provider documentation before use."
+}
