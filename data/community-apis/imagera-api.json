@@ -1,0 +1,18 @@
+{
+  "name": "Imagera API",
+  "description": "REST API for generating and editing images, video, voice and music with many AI models through one key and one queue-based interface.",
+  "docsUrl": "https://imagera.ai/developers",
+  "websiteUrl": "https://imagera.ai",
+  "categories": [
+    "Machine Learning",
+    "Art & Design",
+    "Video"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-11-10",
+  "openapiUrl": "https://api.imagera.ai/openapi.json",
+  "notes": "Public OpenAPI 3 spec (https://api.imagera.ai/openapi.json) and agent-readable docs (https://api.imagera.ai/llms.txt) for image, video, voice and music models behind one endpoint (https://api.imagera.ai). Auth is an API key in the Authorization header. Paid, billed per request; no free tier."
+}
