@@ -1,0 +1,18 @@
+{
+  "name": "Imagera LLM API",
+  "description": "OpenAI-compatible chat completions endpoint for 320+ language models from 48 labs with one API key, billed per token, with streaming.",
+  "docsUrl": "https://imagera.ai/llm-api",
+  "websiteUrl": "https://imagera.ai/llm-api",
+  "categories": [
+    "Machine Learning",
+    "Development",
+    "Text Analysis"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-11-10",
+  "openapiUrl": "",
+  "notes": "Works with the official OpenAI SDKs by changing the base URL to https://api.imagera.ai/llm/v1. The model list with per-token prices is public and needs no key: https://api.imagera.ai/llm/v1/models. Paid, billed per token."
+}
