@@ -1,0 +1,17 @@
+{
+  "name": "AzYun",
+  "description": "AzYun provides a unified API gateway for a vast range of AI models — one standard API protocol to access OpenAI, Claude, Gemini and other models, with high-concurrency load balancing, transparent pay-as-you-go billing and team collaboration.",
+  "docsUrl": "https://www.azyun.com",
+  "websiteUrl": "https://www.azyun.com",
+  "categories": [
+    "Development",
+    "Machine Learning"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-09",
+  "openapiUrl": "",
+  "notes": "AzYun provides a developer free tier for developers getting started. Public documentation is available on the official website at https://www.azyun.com."
+}
