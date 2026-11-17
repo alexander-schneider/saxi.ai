@@ -1,6 +1,6 @@
 {
   "name": "AgentSEO REST API",
-  "description": "Production REST API for Google SERP analysis, keyword research, rank tracking, content-gap analysis, and Google AI Overview monitoring for SEO and answer-engine optimization workflows.",
+  "description": "Paid SEO and answer engine optimization (AEO) REST API for Google SERP analysis, keyword research, rank tracking, content gaps and AI Overview monitoring. Includes 100 one-time live credits; plans start at $9/month.",
   "docsUrl": "https://www.agentseo.dev/docs/api-reference",
   "websiteUrl": "https://www.agentseo.dev/",
   "categories": [
@@ -14,5 +14,5 @@
   "free": false,
   "addedAt": "2026-11-06",
   "openapiUrl": "https://www.agentseo.dev/openapi.yaml",
-  "notes": "New accounts get 100 one-time live credits with no card; further usage needs a paid plan. Public REST docs, OpenAPI, and API-key auth: https://www.agentseo.dev/docs/api-reference."
+  "notes": "Public docs and OpenAPI support evaluation of an SEO/AEO data API; new accounts receive 100 one-time live credits, and paid plans start at $9/month."
 }
