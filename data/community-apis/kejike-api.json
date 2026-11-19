@@ -3,12 +3,14 @@
   "description": "OpenAI-compatible AI API relay providing GPT, Claude, Codex and DeepSeek models through a single base URL.",
   "docsUrl": "https://www.kejike.top/openai-compatible-api.html",
   "websiteUrl": "https://www.kejike.top",
-  "categories": ["Development"],
+  "categories": [
+    "Machine Learning"
+  ],
   "auth": "API Key",
   "cors": "Unknown",
   "https": true,
   "free": false,
   "addedAt": "2026-11-18",
   "openapiUrl": "",
-  "notes": "Kejike is a paid, OpenAI-compatible relay widely used for coding assistants and agent workflows. Public docs at the docsUrl describe the base URL, API key auth and model catalog. free=false because there is no free public plan."
+  "notes": "Kejike is a paid, OpenAI-compatible relay used for coding assistants and agent workflows. Public docs at the docsUrl describe the base URL, API key auth and model catalog. Note: the documentation is currently available in Chinese only. free=false because there is no free public plan."
 }
