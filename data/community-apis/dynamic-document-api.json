@@ -1,0 +1,14 @@
+{
+  "name": "Dynamic Document API",
+  "description": "REST API that turns templates and JSON data into PDFs and images, and converts HTML, Markdown or public URLs to PDF.",
+  "docsUrl": "https://dynamicdocumentapi.com/docs/api-reference",
+  "websiteUrl": "https://dynamicdocumentapi.com/",
+  "categories": ["Documents & Productivity", "Development"],
+  "auth": "API Key",
+  "cors": "No",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-09",
+  "openapiUrl": "https://api-eu.dynamicdocumentapi.com/v1/openapi.json",
+  "notes": "Public REST docs and OpenAPI. The Free plan includes 50 renders per month at no cost; paid plans start at €19 per month. Authentication uses API keys."
+}
