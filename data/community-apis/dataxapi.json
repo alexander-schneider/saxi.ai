@@ -11,7 +11,7 @@
   "auth": "API Key",
   "cors": "Unknown",
   "https": true,
-  "free": true,
+  "free": false,
   "addedAt": "2026-11-21",
   "openapiUrl": "https://dataxapi.com/openapi.json",
   "notes": "REST API with an OpenAPI spec at https://dataxapi.com/openapi.json, SDKs on npm and PyPI, and a CLI. Every response says what the call cost. Free trial up to 333 calls, then pay per call from $0.0003."
