@@ -1,0 +1,14 @@
+{
+  "name": "MapExporter Google Maps API",
+  "description": "REST API that returns public Google Maps business search results, reviews and photos as JSON.",
+  "docsUrl": "https://mapexporter.app/google-maps-scraper-api/",
+  "websiteUrl": "https://mapexporter.app",
+  "categories": ["Maps & Geo", "Business", "Marketing & SEO"],
+  "auth": "API Key",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-26",
+  "openapiUrl": "https://mapexporter.app/openapi.json",
+  "notes": "Three endpoints (search places, list reviews, list photos) for lead generation and local market research; 29 fields per place with optional email and social profile enrichment. Free plan with 20 requests per month, OpenAPI 3.1 spec, and a companion MCP server for AI agents."
+}
