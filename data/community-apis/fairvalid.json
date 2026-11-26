@@ -1,0 +1,14 @@
+{
+  "name": "FairValid Customer API",
+  "description": "Verify email addresses, read asynchronous verification results, and find verified work emails with FairMatch through a scoped customer REST API.",
+  "docsUrl": "https://fairvalid.com/en/help/api",
+  "websiteUrl": "https://fairvalid.com",
+  "categories": ["Email", "Data Validation", "Business"],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-19",
+  "openapiUrl": "https://fairvalid.com/help/api/openapi.json",
+  "notes": "A FairValid account includes 300 shared free credits each month for email verification and FairMatch. Valid or invalid verification results use one credit; each newly delivered verified FairMatch contact uses four. Unknown and unresolved catch-all checks have no net charge. Scoped API-key authentication is required; optional paid credits are available. The hosted service is proprietary."
+}
