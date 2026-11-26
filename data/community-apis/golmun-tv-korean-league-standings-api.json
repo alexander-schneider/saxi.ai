@@ -1,0 +1,17 @@
+{
+  "name": "GOLMUN TV Korean League Standings API",
+  "description": "Free JSON standings for seven South Korean professional leagues (KBO baseball, K League 1 and 2 football, KBL and WKBL basketball, V-League volleyball) with English team names.",
+  "docsUrl": "https://thesportswave.net/developers",
+  "websiteUrl": "https://thesportswave.net/developers",
+  "categories": [
+    "Sports & Fitness",
+    "Open Data"
+  ],
+  "auth": "No Auth",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-26",
+  "openapiUrl": "",
+  "notes": "No key or sign-up needed; CORS enabled; updated about every 30 minutes. English-language Korean league standings are hard to find elsewhere. A dated snapshot is archived on Zenodo (DOI 10.5281/zenodo.24557150). Free with an attribution link."
+}
