@@ -1,0 +1,17 @@
+{
+  "name": "TwexAPI",
+  "description": "REST API for public X (Twitter) data: advanced search, profiles, timelines, followers and replies, billed per result.",
+  "docsUrl": "https://docs.twexapi.io",
+  "websiteUrl": "https://twexapi.io",
+  "categories": [
+    "Social",
+    "Development"
+  ],
+  "auth": "API Key",
+  "cors": "Yes",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-11-27",
+  "openapiUrl": "https://twexapi.io/openapi.json",
+  "notes": "Self-serve: sign up and get an API key without an X developer account. New accounts get 20,000 free Credits for 7 days, then pay as you go, so free is set to false. Public docs at docs.twexapi.io; OpenAPI 3.1 spec at twexapi.io/openapi.json; MCP server listed in the Official MCP Registry as io.twexapi/mcp."
+}
