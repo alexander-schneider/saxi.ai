@@ -1,0 +1,18 @@
+{
+  "name": "SocialToAI",
+  "description": "Social data for AI agents: read public posts, comments, profiles and trending boards from 18 platforms, including TikTok, Reddit, X, YouTube, RedNote and Douyin, over REST or one MCP address.",
+  "docsUrl": "https://socialtoai.com/docs/",
+  "websiteUrl": "https://socialtoai.com",
+  "categories": [
+    "Social",
+    "Search",
+    "Development"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-11-28",
+  "openapiUrl": "https://socialtoai.com/openapi.json",
+  "notes": "Public docs and an OpenAPI document; REST API at https://api.socialtoai.com/v1 with prepaid credits (100 free credits on sign-up, no card), and failed calls are free."
+}
