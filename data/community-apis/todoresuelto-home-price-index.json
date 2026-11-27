@@ -1,0 +1,17 @@
+{
+  "name": "Todo Resuelto Home Price Index",
+  "description": "Home-repair prices (plumbers, electricians, gas technicians and other home trades) in 16 Latin American countries, each with a link to its source.",
+  "docsUrl": "https://todoresuelto.com/precios",
+  "websiteUrl": "https://todoresuelto.com",
+  "categories": [
+    "Open Data",
+    "Finance & Economics"
+  ],
+  "auth": "No Auth",
+  "cors": "Yes",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-25",
+  "openapiUrl": "",
+  "notes": "Free, keyless and read-only JSON API with an OpenAPI 3.1 spec and a remote MCP server, updated with each monthly edition. Licence CC BY 4.0."
+}
