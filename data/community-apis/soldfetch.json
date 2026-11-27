@@ -1,0 +1,17 @@
+{
+  "name": "SoldFetch",
+  "description": "REST API for searching sold and active eBay listings, browsing categories, and retrieving public item details. Not affiliated with eBay.",
+  "docsUrl": "https://docs.soldfetch.com",
+  "websiteUrl": "https://soldfetch.com",
+  "categories": [
+    "Commerce",
+    "Development"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-11-25",
+  "openapiUrl": "https://soldfetch.com/api/v1/openapi.json",
+  "notes": "Supports marketplace pricing and resale research via REST and MCP. New accounts receive 100 one-time free units; ongoing use is paid from $9/month. Sold-listing results report displayed prices, not verified accepted offers."
+}
