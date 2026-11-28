@@ -1,0 +1,18 @@
+{
+  "name": "Transformer.gg",
+  "description": "Transformer.gg is a REST API, MCP server and CLI for booking sponsored posts from X creators: search creators who fit a site, send an offer, and track the clicks and sales that post drives.",
+  "docsUrl": "https://transformer.gg/docs?utm_source=saxi.ai&utm_medium=referral&utm_campaign=backlinks&utm_content=listing",
+  "websiteUrl": "https://transformer.gg/?utm_source=saxi.ai&utm_medium=referral&utm_campaign=backlinks&utm_content=listing",
+  "categories": [
+    "Marketing & SEO",
+    "Social"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": true,
+  "addedAt": "2026-11-28",
+  "openapiUrl": "",
+  "protocol": "REST",
+  "notes": "Public docs cover the REST API, MCP server and CLI. Joining is free and there is no subscription. A 20% fee applies only when a creator accepts a paid offer. Creators can check the value of one sponsored post on an X account with no API key. Transformer.gg is part of North Bay Ventures (North Bay Opco I, Inc., Miami, Florida). The founder is Jon Oringer, who founded Shutterstock."
+}
